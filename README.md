@@ -10,7 +10,7 @@ Passionate about learning new skills and working with others with the same passi
 
 ### Skills :hammer_and_pick:
 - - -
-**Python** ![Python](https://cdn-icons-png.flaticon.com/32/1822/1822920.png) 
+**Python** ![Python](https://cdn-icons-png.flaticon.com/32/1822/1822920.png) &nbsp; &nbsp;
 **Machine Learning** ![Machine Learning](https://cdn-icons-png.flaticon.com/32/2103/2103611.png) **Deep Learning** ![Deep Learning](https://cdn-icons-png.flaticon.com/32/2103/2103718.png) **Numpy** ![Numpy](https://icons-for-free.com/iconfiles/png/32/NumPy-1324888747155633047.png)
 **Pandas** ![Pandas](https://cdn-icons-png.flaticon.com/32/1531/1531344.png) **Keras** ![Keras](https://cdn-icons-png.flaticon.com/32/3522/3522415.png) **Scikit-Learn** ![Scikit-Learn](https://cdn-icons-png.flaticon.com/32/3600/3600950.png) **OpenCV** ![OpenCV](https://cdn-icons-png.flaticon.com/32/3600/3600937.png) **Docker** ![Docker](https://cdn-icons-png.flaticon.com/32/5969/5969059.png) **HTML** ![HTML](https://cdn-icons-png.flaticon.com/32/186/186320.png) 
 **CSS** ![CSS](https://cdn-icons-png.flaticon.com/32/186/186319.png) **JavaScript** ![JavaScript](https://cdn-icons-png.flaticon.com/32/5968/5968292.png) 
