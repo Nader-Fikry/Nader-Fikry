@@ -10,8 +10,7 @@ Passionate about learning new skills and working with others with the same passi
 
 ### Skills :hammer_and_pick:
 - - -
-
-![My Remote Image](https://cdn-icons-png.flaticon.com/32/1822/1822920.png) **Python**
+**Python** ![My Remote Image](https://cdn-icons-png.flaticon.com/16/1822/1822920.png) **Machine Learning** **Deep Learning** **Numpy** **Pandas** 
 
 <!--
 **Nader-Fikry/Nader-Fikry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
