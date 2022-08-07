@@ -1,3 +1,8 @@
+<style>
+  a:hover {
+    text-decoration: none;
+  }
+</style>
 ### Hi there 👋
 - - -
 ### About me :smiley:
@@ -19,4 +24,4 @@ Passionate about learning new skills and working with others with the same passi
 
 ### Links :speech_balloon:
 - - - 
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+<a href="https://www.google.com/">custom link</a>
