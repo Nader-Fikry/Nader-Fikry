@@ -19,6 +19,4 @@ Passionate about learning new skills and working with others with the same passi
 
 ### Links :speech_balloon:
 - - - 
-[normal link](https://www.google.com/)
-
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
