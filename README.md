@@ -17,3 +17,6 @@ Passionate about learning new skills and working with others with the same passi
 **CSS** ![CSS](https://cdn-icons-png.flaticon.com/32/186/186319.png) &nbsp; &nbsp; **JavaScript** ![JavaScript](https://cdn-icons-png.flaticon.com/32/5968/5968292.png) 
 &nbsp; &nbsp; **Jquery** ![Jquery](https://cdn-icons-png.flaticon.com/32/3600/3600926.png)
 
+### Links :speech_balloon:
+- - - 
+<a href="https://www.google.com/" style="color: white; text-decoration: none; background-color:black;">LinkedIn</a>
