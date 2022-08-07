@@ -19,4 +19,6 @@ Passionate about learning new skills and working with others with the same passi
 
 ### Links :speech_balloon:
 - - - 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/nader-fikry-29092b177/) &nbsp; &nbsp;
+[![Mail](https://cdn-icons-png.flaticon.com/32/732/732200.png)](naderfikry245@gmail.com) &nbsp; &nbsp;
+[![Dev](https://cdn-icons-png.flaticon.com/32/5969/5969023.png)](https://dev.to/naderfikry) &nbsp; &nbsp;
