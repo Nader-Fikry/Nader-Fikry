@@ -19,4 +19,4 @@ Passionate about learning new skills and working with others with the same passi
 
 ### Links :speech_balloon:
 - - - 
-<a href="https://www.google.com/" style="color: white; text-decoration: none; background-color:black;">LinkedIn</a>
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
